@@ -1,0 +1,16 @@
+#quizBox {
+    box-shadow: 10px 5px 0px black ;
+    background-color: antiquewhite;
+}
+
+#questions {
+    text-align: center;
+}
+
+#h2Footer {
+    text-align: center;
+}
+
+#answerList {
+    text-align: center;
+}
